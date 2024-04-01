@@ -19,7 +19,7 @@ Visionner la vidéo youtube "Qu'est ce que le suite ", de la chaine pixees à l'
 
 1. Justine souhaite stocker ses données en ligne. Elle étudie alors les différentes offres. 
 
-![](D:\DISQUE ESSB\lycee\SNT\données\stage\comparatif_cloud.jpg)
+![](/IMG/comparatif_cloud.jpg)
 
 Source: Que Choisir. 
 
@@ -31,7 +31,7 @@ Source: Que Choisir.
 
 2.  Justine a choisi un service de cloud. Elle installe maintenant l'application dédiée sur son smartphone et obtient l'écran ci-dessous. 
 
-![](D:\DISQUE ESSB\lycee\SNT\données\stage\cloud2.jpg)
+![](/IMG/cloud2.jpg)
 
 ​	a. Quels sont les types de données qui seront mises à jour si elle conserve le paramétrage 	par défaut ?
 
