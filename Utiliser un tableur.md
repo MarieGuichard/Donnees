@@ -26,7 +26,7 @@
 
    Vous devriez obtenir une table de cette nature. 
 
-   ![](D:\DISQUE ESSB\lycee\SNT\données\stage\education1.jpg)
+   ![](/IMG/education1.jpg)
 
    d. Donner au moins trois descripteurs de cette série de données.
 
@@ -107,7 +107,7 @@ Pour utiliser des fonctions permettant d'effectuer des calculs, vous utiliserez 
 
 Entrer les valeurs que vous avez trouvées précédemment dans une nouvelle feuille, puis utiliser l'assistant graphique afin d'obtenir le résultat suivant. 
 
-![](D:\DISQUE ESSB\lycee\SNT\données\stage\graphique_ecole.png)
+![](/IMG/graphique_ecole.png)
 
 
 
