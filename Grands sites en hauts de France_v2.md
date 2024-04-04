@@ -6,7 +6,7 @@ a. Rendez vous sur le site dédié à l'open data des Hauts de France.
 
 b. Rendez vous dans la rubrique Environnement.
 
-c. Téléchargez le jeu de données concernant les grands  sites de France en Hauts de France. au format csv  
+c. Téléchargez le jeu de données concernant les grands  sites de France en Hauts de France datant de l'année 2020 au format csv  
 
 d. Enregistrez le document dans votre répertoire en le nommant grands_sites.csv
 
