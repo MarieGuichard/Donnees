@@ -115,7 +115,7 @@ Voici comment sont écrites les données du tableau de l'exercice précédent au
 
 **Exercice 3:**: 
 
-a. Comment sont utliisés les desripteurs en JSON ? 
+a. Comment sont utilisés les descripteurs en JSON ? 
 
 b. Compléter le code précédent afin d'ajouter l'élève Elise Quenardel. 
 
@@ -156,6 +156,6 @@ Le format XML avec son système de balises est plus long à écrire mais permet 
 
 **Exercice 4:**: 
 
-a. Comment sont utliisés les desripteurs en XML? 
+a. Comment sont utilisés les descripteurs en XML? 
 
 b. Compléter le code précédent afin d'ajouter l'élève Elise Quenardel. 
