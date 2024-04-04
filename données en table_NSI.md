@@ -153,11 +153,11 @@ Nous travaillerons, dans cette partie avec deux fichiers:
 
 - le fichier fichier_client qui liste les numéros de référence des clients ainsi que leurs noms. 
 
-![](D:\DISQUE ESSB\lycee\SNT\Les données strucurées\stage\donnees_table_1.jpg)
+![](/IMG/donnees_table_1.jpg)
 
 - le fichier fiches_com.csv qui liste les numéros de commande passées en leur associant la date ainsi que la référence du client qui a passé la commande. 
 
-![](D:\DISQUE ESSB\lycee\SNT\Les données strucurées\stage\donnees_table_2.jpg)
+![](/IMG/donnees_table_2.jpg)
 
 L'objectif est de trouver une méthode permettant de fusionner ces deux tables afin que le numéro de la commande passée soit associé au client. 
 
