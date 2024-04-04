@@ -60,10 +60,10 @@ Pour trier, sélectionner toutes les cellules à l'exception de la première lig
 
 Utiliser cet outil pour répondre aux questions suivantes:
 
-1. Trier par ordre alphabétique de commune. Quel est le troisième établissement que vous trouvez ? SAINTE CROIX DES NEIGES
-2. Trier par ordre décroissant de nombre d'élèves. Quel est le deuxième établissement que vous trouvez? ROSA PARKS
-3. Trier par ordre alphabétique de département, puis par ordre croissant de nombres d'élèves. Quel est le premier établissement que vous trouvez? SAINT JOSEPH
-4. Trier par ordre alphabétique les établissements de l'académie d'Amiens. Quel est le premier établissement que vous trouvez? ANDRE MALRAUX
+1. Trier par ordre alphabétique de commune. Quel est le troisième établissement que vous trouvez ? 
+2. Trier par ordre décroissant de nombre d'élèves. Quel est le deuxième établissement que vous trouvez? 
+3. Trier par ordre alphabétique de département, puis par ordre croissant de nombres d'élèves. Quel est le premier établissement que vous trouvez? 
+4. Trier par ordre alphabétique les établissements de l'académie d'Amiens. Quel est le premier établissement que vous trouvez?
 5. Quel est l'établissement de l'académie d'Amiens, du département de l'Oise comportant le plus d'élèves? 
 
 ## IV. Utiliser des fonctions. 
