@@ -18,7 +18,9 @@ https://data.economie.gouv.fr/
 3. Le cloud.
 4. Les métadonnées
 5. utilisation du tableur
-6.  Le parcours Algorea
+6.  Le parcours Algorea: [Parcours Algorea](https://parcours.algorea.org/contents/4703/)
+   Vous pouvez vous créer un compter, cela vous permettra de constituer une classe dans laquelle vos élèves pourront s'inscrire. Vous pourrez alors suivre leur progression.
+   Rendez vous dans la catégorie SNT/ Nouvelle version / Les données structurées et leur traitement. 
 
 
 Activités débranchées : les aiguilles à tricoter de Marie Duflot
