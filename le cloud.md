@@ -8,7 +8,7 @@ Le cloud est un espace numérique de stockage de données, sur Internet, fourni 
 
 Parmi les services grand-public fournis en cloud computing figure le jeu à la demande (ou cloud gaming pour les anglophones). Il permet de jouer normalement à des jeux vidéos sur son écran d'ordinateur, alors que le ou les logiciels de jeu tournent sur des serveurs distants. Il ne nécessite plus de supports comme les CD, ou de matériel, comme les consoles de jeux. Les joueurs doivent seulement posséder un ordinateur relié à Internet et les périphériques requis (clavier, souris, manette de jeu...). 
 
-Visionner la vidéo youtube "Qu'est ce que le suite ", de la chaine pixees à l'adresse suivante : https://youtu.be/5YawCCUxa_E 
+Visionner la vidéo youtube "Qu'est ce que le cloud? ", de la chaine pixees à l'adresse suivante : https://youtu.be/5YawCCUxa_E 
 
 
 
